@@ -4,4 +4,7 @@ Projeto utilizado para praticar Git, GitHub, Codespaces, branches, Pull Requests
 
 ## Equipe
 
-Linha da equipe: [Pessoa A]
+
+Linha da equipe: [Pessoa A, Pessoa B]
+
+
